@@ -1,11 +1,11 @@
 # Indrodução
-
+Colocar a introdução
 # Objetivo
-
+Colocar o objetivo
 # Funcionalidades
-
+Colocar as funcionalidades
 # Modo de Usar
-
+Colocar o modo de usar
 
 
 OBS: O README é o arquivo principal que apresenta e explica um projeto. 
