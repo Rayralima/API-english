@@ -1,2 +1,13 @@
-# API-Documentação
-Uma API desenvolvida para a disciplina de inglês, focada na documentação.
+# Indrodução
+
+# Objetivo
+
+# Funcionalidades
+
+# Modo de Usar
+
+
+
+OBS: O README é o arquivo principal que apresenta e explica um projeto. 
+Geralmente inclui o objetivo do projeto, suas funcionalidades e como começar 
+a usá-lo. Dito isso é nescessário colocar essas informações nos campos destacados.
